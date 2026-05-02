@@ -1,6 +1,7 @@
-# BDCC ENSET Spring MVC
+# Spring-MVC-Thymeleaf-Spring-Security
 
-Projet Spring MVC avec Thymeleaf et Spring Security développé pour ENSET.
+
+Projet Spring MVC avec Thymeleaf et Spring Security .
 
 ## Description
 
@@ -76,7 +77,3 @@ src/
 │       └── application.properties
 └── test/
 ```
-
-## Licence
-
-Ce projet est développé à des fins éducatives pour ENSET.
